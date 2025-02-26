@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: blueviolet;
+    text-decoration: underline; 
+    text-align: center;}
+    p{
+        font-size: 36px;  
+    }
